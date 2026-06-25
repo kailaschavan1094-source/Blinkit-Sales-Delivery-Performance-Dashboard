@@ -1,5 +1,5 @@
 # Blinkit Sales & Delivery Performance Dashboard
-
+![Blinkit Dashboard](Dashboard-Screenshot.png)
 ## 📌 Project Overview
 This project is an interactive Power BI dashboard built to analyze Blinkit sales, delivery performance, customer feedback, and product performance.
 
@@ -38,4 +38,3 @@ This project is an interactive Power BI dashboard built to analyze Blinkit sales
 - Monitored delivery performance across different delivery statuses.
 ## 📊 Dashboard Preview
 
-![Blinkit Dashboard](Dashboard-Screenshot.png)
